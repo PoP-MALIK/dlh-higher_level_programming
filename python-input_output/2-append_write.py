@@ -3,7 +3,7 @@
 
 
 def append_write(filename="", text=""):
-    """Append a string to a text file and return the number of characters added.
+    """Append a string to a file and return the number of characters added.
 
     Args:
         filename (str): The name of the file to append to.
